@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/FaceRecognitionAuth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FooddeliveryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Questionnaire" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Real-Time_Face_Recognition_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Restaurantapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sehat Main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliveryboyapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/providers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ridesharing-uber-lyft-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/swiggy_client_app_clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ultrascanner" vcs="Git" />
+  </component>
+</project>
